@@ -1,6 +1,6 @@
 # Re:Food Project
 
-A new Flutter project.
+A food rescue app using Flutter and Firebase
 
 ## Getting Started
 
