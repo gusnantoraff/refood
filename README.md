@@ -1,6 +1,7 @@
 # Re:Food Project
 
 A food rescue app using Flutter and Firebase
+![](ReFood.png)
 
 ## Getting Started
 
